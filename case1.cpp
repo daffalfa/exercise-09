@@ -1,3 +1,9 @@
+/*
+Nama	: Muhammad Daffa Alfarizqi
+npm		: 140810180039
+Praktikum Strukdat
+*/
+
 #include<iostream>
 using namespace std;
 const int maxElement=100;
